@@ -1,4 +1,4 @@
-public class Loop {
+public class Loop{
     public static void loop(){
 
         String[] names = {"Rong", "Tong", "Ting", "Pich", "Hayabusa\n"};
