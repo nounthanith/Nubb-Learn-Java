@@ -46,6 +46,7 @@ public class Main {
     // Class And Object
 
     public class Car{
-
+        static String name = "TOYOTA";
     }
+//    System.out.print(Car.name);
 }
