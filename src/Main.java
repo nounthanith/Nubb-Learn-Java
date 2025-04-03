@@ -12,8 +12,8 @@ public class Main {
 //        }else {
 //            System.out.println("Please check you password and name");
 //        }
-//        JapaneseName obj = new JapaneseName();
-//        obj.japanName();
+        JapaneseName obj = new JapaneseName();
+        obj.japanName();
 
 //        for (int i = 0; i <= 5; i ++){
 //            System.out.print("="+"*");

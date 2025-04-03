@@ -21,11 +21,11 @@ public class UserInput {
 
             int dice = (int) (Math.random() * 6) + 1;
 
-            System.out.print("Your prediction is: ");
+            System.out.print("Your prediction is: " + num + " ");
             printAnimal(num);
 
             System.out.println("========================");
-            System.out.print("Answer: ");
+            System.out.print("Answer: " + dice + " ");
             printAnimal(dice);
 
             System.out.println("========================");
