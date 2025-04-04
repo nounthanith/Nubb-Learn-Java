@@ -17,6 +17,7 @@ public class Vorible {
         // Current Date and Time
         LocalDateTime dateTime = LocalDateTime.now();
         System.out.println("Current Date and Time: " + dateTime);
+        System.out.print("New");
     }
 }
 
